@@ -1,5 +1,5 @@
 # Problem-Statement :- Vehicle Movement Analysis and Insight Generation in a College Campus using Edge AI
-![temp1](https://github.com/user-attachments/assets/b025481b-96fc-44d8-82e7-c8ff5e5b844c)
+![temp1](https://github.com/user-attachments/assets/ba472301-8232-4c77-b02f-1274681e0980)
 
 # Mentors:- 
 * Institute Mentor : Prof. Saurabh Shah 
@@ -11,7 +11,7 @@
 * Shruti Arsode: [https://github.com/Shruti192903]
 
 # Project-Team
-![3](https://github.com/user-attachments/assets/635edc43-8aa9-4208-8fc7-59efd00270fc)
+![3](https://github.com/user-attachments/assets/c7e9bd66-e785-498c-8384-b923a30ded0c)
 
 # Objective 
 The primary objective of this project is to develop an Edge AI-based solution that can analyze vehicle movement in and out of a college campus using data from cameras capturing vehicle photos and license plates. The solution should provide insights on vehicle movement patterns, parking occupancy, and match vehicles to an approved vehicle database.
@@ -32,8 +32,8 @@ Our solution is capable of processing image data in real-time and provide insigh
 * MySQL: Originally considered for database management but replaced with CSV for simplicity.
 * Haar Cascade: Used for detecting license plates within the detected vehicles.
 * imutils: Provides convenient image processing functions, including contour handling.
-datetime: Used for timestamping images and metadata.
-Edge AI: Implements real-time vehicle detection and license plate recognition directly on the device, reducing latency and reliance on cloud services.
+* datetime: Used for timestamping images and metadata.
+* Edge AI: Implements real-time vehicle detection and license plate recognition directly on the device, reducing latency and reliance on cloud services.
 
 # Features
 * Real-time Vehicle Detection: Uses YOLO for detecting vehicles in captured images.
@@ -62,7 +62,6 @@ project/
 └── Result/
 
 # Results 
-1) Detection :- ![Detect](https://github.com/user-attachments/assets/d36abb5b-2df5-4319-b671-3c158cf53909)
-2) Entry-Exit :- ![entry-exit](https://github.com/user-attachments/assets/a3f6fa4f-912e-4241-adb6-1316111221b1)
-3) Occupancy :- ![occupancy](https://github.com/user-attachments/assets/cc4a0544-00f7-4186-bafd-43500ce769d6)
-4) Data-storage :- ![data-storage](https://github.com/user-attachments/assets/63b57d7e-1413-4ccb-86c7-85a19d9e07d0)
+* Detection : ![Detect](https://github.com/user-attachments/assets/0f6fd76b-f49f-43c2-a059-695b5689301d)
+* Entry-Exit : ![entry-exit](https://github.com/user-attachments/assets/83e1c6d6-44ac-4a85-9ddd-7c6aa79c5243)
+* Occupancy :![occupancy](https://github.com/user-attachments/assets/6713ce84-56ec-47e7-a68f-777fe0358069)
