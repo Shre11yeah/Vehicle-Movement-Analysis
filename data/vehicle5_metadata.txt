@@ -1,0 +1,8 @@
+vehicle_image_path: C:\\Users\\user\\Desktop\\Vehicle-Movement-Analysis-main\\Vehicle-Movement-Analysis-main\\data\\vehicle_images\vehicle5.jpg
+vehicle_timestamp: 2024-07-09 11:11:13
+vehicle_type: unknown
+vehicle_height: unknown
+vehicle_width: unknown
+parking_space: unknown
+license_plate: unknown
+vehicle_id: unknown

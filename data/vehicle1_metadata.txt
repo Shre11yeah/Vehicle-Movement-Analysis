@@ -1,0 +1,2 @@
+vehicle_image_path: C:\\Users\\user\\Desktop\\Vehicle-Movement-Analysis-main\\Vehicle-Movement-Analysis-main\\data\\vehicle_images\vehicle1.jpg
+vehicle_timestamp: 2024-07-08 10:00:00
