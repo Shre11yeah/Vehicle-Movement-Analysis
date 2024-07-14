@@ -65,3 +65,4 @@ project/
 * Detection : ![Detect](https://github.com/user-attachments/assets/0f6fd76b-f49f-43c2-a059-695b5689301d)
 * Entry-Exit : ![entry-exit](https://github.com/user-attachments/assets/83e1c6d6-44ac-4a85-9ddd-7c6aa79c5243)
 * Occupancy :![occupancy](https://github.com/user-attachments/assets/6713ce84-56ec-47e7-a68f-777fe0358069)
+* Data-Storage : ![data-storage](https://github.com/user-attachments/assets/0e65d631-23d4-4b42-9b7f-6e3c73d2ad29)
