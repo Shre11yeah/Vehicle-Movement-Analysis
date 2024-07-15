@@ -41,7 +41,7 @@ Our solution is capable of processing image data in real-time and provide insigh
 * Database Integration: Compares detected license plates with an existing approved vehicle dataset.
 * Image Capture: Supports both live camera feed and image upload for processing.
 * Metadata Generation: Creates and stores metadata for captured images, including vehicle type, dimensions, parking space, and license plate information.
-* Dataset :- We build and used our own dataset for this Project.
+* Dataset :- The dataset used in this project was created entirely by our team.
 
 # Acknowledgements
 Intel® Unnati: Data-Centric Labs in Emerging Technologies
