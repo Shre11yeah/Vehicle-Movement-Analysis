@@ -50,11 +50,11 @@ Giving Students the Intel Edge: [https://www.intel.in/content/www/in/en/corporat
 # Project-Guide
 Here's a step-by-step guide for setting up the project environment, running the project, and using its features:
 # Step 1: Install Required Software
-1.Python: Ensure you have Python 3.x installed on your machine. You can download it from python.org.
-2.Pip: Ensure that pip is installed to manage Python packages. It usually comes with Python installations. You can check if you have it installed by running:
+1)Python: Ensure you have Python 3.x installed on your machine. You can download it from python.org.
+2)Pip: Ensure that pip is installed to manage Python packages. It usually comes with Python installations. You can check if you have it installed by running:
 # Copy code
 => pip --version
-3.Install Required Packages: Open a terminal or command prompt and run the following commands to install the required packages:
+3)Install Required Packages: Open a terminal or command prompt and run the following commands to install the required packages:
 # Copy code
 pip install opencv-python
 pip install opencv-python-headless
@@ -63,14 +63,14 @@ pip install pandas
 pip install pytesseract
 pip install Flask
 pip install imutils
-4.Tesseract OCR: Install Tesseract OCR, which is required for the OCR functionality. You can find installation instructions for your operating system here. After installation, ensure that Tesseract is added to your system's PATH.
+4)Tesseract OCR: Install Tesseract OCR, which is required for the OCR functionality. You can find installation instructions for your operating system here. After installation, ensure that Tesseract is added to your system's PATH.
 
 # Step 2: Download YOLOv4 Weights and Configuration Files
-1.Download YOLOv4: Get the YOLOv4 configuration and weights files. You can download them from the following links:
+1)Download YOLOv4: Get the YOLOv4 configuration and weights files. You can download them from the following links:
 * yolov4.cfg
 * yolov4.weights
-2.Place Files: Place yolov4.cfg and yolov4.weights in the project directory.
-3.Haar Cascade File: Ensure that haarcascade_russian_plate_number.xml is also in the project directory.
+2)Place Files: Place yolov4.cfg and yolov4.weights in the project directory.
+3)Haar Cascade File: Ensure that haarcascade_russian_plate_number.xml is also in the project directory.
 
 # Step 3: Project Directory Structure
 Ensure your project directory structure looks like this:
@@ -90,27 +90,27 @@ project/
 └── Result/
 
 # Step 4: Running the Project
-1.Open a Terminal: Navigate to the project directory where your app.py is located.
-2.Run the Application: Execute the following command:
+1)Open a Terminal: Navigate to the project directory where your app.py is located.
+2)Run the Application: Execute the following command:
 # Copy code
 python app.py
 (This will start the application and the server.)
-3.Access the Application: Open a web browser and go to http://127.0.0.1:5000 to access the application.
+3)Access the Application: Open a web browser and go to http://127.0.0.1:5000 to access the application.
 
 # Step 5: Using the Application Features
-1.Real-time Vehicle Detection:
+1)Real-time Vehicle Detection:
    Use the live camera feed option in the application to capture real-time vehicle images and 
    detect vehicles using YOLO.
-2.License Plate Recognition:
+2)License Plate Recognition:
     Once a vehicle is detected, the application will automatically extract the license plate 
     information using OCR.
-3.Database Integration:
+3)Database Integration:
     The detected license plates will be compared with your approved vehicle dataset, and 
     results will be displayed.
-4.Image Capture:
+4)Image Capture:
     You can upload images from your local storage for processing, and the application will 
     analyze them.
-5.Metadata Generation:
+5)Metadata Generation:
     Captured images will generate and store metadata, including vehicle type, dimensions, 
     parking space, and license plate information, which can be viewed in the results directory.
 
