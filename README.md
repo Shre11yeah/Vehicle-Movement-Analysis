@@ -64,6 +64,7 @@ Here's a step-by-step guide for setting up the project environment, running the 
 * pip install pytesseract
 * pip install Flask
 * pip install imutils
+  
 4)Tesseract OCR: Install Tesseract OCR, which is required for the OCR functionality. You can find installation instructions for your operating system here. After installation, ensure that Tesseract is added to your system's PATH.
 
 # Step 2: Download YOLOv4 Weights and Configuration Files
