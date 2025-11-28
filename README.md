@@ -9,8 +9,8 @@
 * Aabha Lokhande:[https://github.com/gitwithaabha]
 * Sanskruti Tidke:[https://github.com/Sanskruti0208]
 
-# Project-Team
-![3](https://github.com/user-attachments/assets/c7e9bd66-e785-498c-8384-b923a30ded0c)
+<!--# Project-Team
+![3](https://github.com/user-attachments/assets/c7e9bd66-e785-498c-8384-b923a30ded0c)-->
 
 # Objective 
 The primary objective of this project is to develop an Edge AI-based solution that can analyze vehicle movement in and out of a college campus using data from cameras capturing vehicle photos and license plates. The solution should provide insights on vehicle movement patterns, parking occupancy, and match vehicles to an approved vehicle database.
